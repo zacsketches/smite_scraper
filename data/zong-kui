@@ -1,0 +1,615 @@
+<!doctype html>
+
+<!--[if lt IE 7 ]> <html class="ie ie6 ie-lt10 ie-lt9 ie-lt8 ie-lt7 no-js" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 ie-lt10 ie-lt9 ie-lt8 no-js" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 ie-lt10 ie-lt9 no-js" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 ie-lt10 no-js" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head id="www-sitename-com" data-template-set="html5-reset-wordpress-theme">
+
+	<meta charset="UTF-8">
+
+	<!-- Always force latest IE rendering engine (even in intranet) -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+
+  
+	
+	<title>Zhong Kui | SMITEgame.com</title>
+
+	<meta name="title" content="Zhong Kui | SMITEgame.com">
+
+	<!--Google will often use this as its description of your page/site. Make it good.-->
+	<meta name="description" content="" />
+
+	
+	<meta name="Copyright" content="Copyright &copy; SMITEgame.com 2015. All Rights Reserved.">
+  
+    <!-- Twitter Card and Facebook Open Graph Meta -->
+    <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" value="@smitegame" />
+  <meta name="twitter:title" value="Zhong Kui" />
+  <meta name="twitter:description" value="" />
+  <meta name="twitter:url" value="http://www.smitegame.com/gods/zhong-kui/" />
+      <meta property="og:title" content="Zhong Kui">
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.smitegame.com/gods/zhong-kui/" />
+  <meta property="og:description" content="">
+  <meta property="og:site_name" content="SMITE">
+   
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 minimal-ui" /><meta name=”mobile-web-app-capable” content=”yes”><link rel="shortcut icon" sizes=”1024x1024” href="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/07/favicon.png" />
+	<!-- concatenate and minify for production -->
+	<link rel="stylesheet" href="http://www.smitegame.com/wp-content/themes/smite-v2/style.css" />
+
+	<!-- Lea Verou's Prefix Free, lets you use only un-prefixed properties in yuor CSS files -->
+    <script src="http://www.smitegame.com/wp-content/themes/html5reset/_/js/prefixfree.min.js"></script>
+
+	<!-- This is an un-minified, complete version of Modernizr.
+		 Before you move to production, you should generate a custom build that only has the detects you need. -->
+	<script src="http://www.smitegame.com/wp-content/themes/html5reset/_/js/modernizr-2.8.0.dev.js"></script>
+
+	<!-- Application-specific meta tags -->
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.smitegame.com/xmlrpc.php" />
+  <script type="text/javascript">  var homeURL = "http://www.smitegame.com"</script>	<link rel="alternate" type="application/rss+xml" title="SMITEgame.com &raquo; Feed" href="http://www.smitegame.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SMITEgame.com &raquo; Comments Feed" href="http://www.smitegame.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.smitegame.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-ionicons-css'  href='http://www.smitegame.com/wp-content/plugins/wp-ionicons/css/ionicons.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css'  href='//cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.8/css/swiper.min.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?ver=4.2.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.smitegame.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.smitegame.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Bacchus' href='http://www.smitegame.com/gods/bacchus/' />
+<link rel='next' title='Ratatoskr' href='http://www.smitegame.com/gods/ratatoskr/' />
+<meta name="generator" content="WordPress 4.2.4" />
+<link rel='canonical' href='http://www.smitegame.com/gods/zhong-kui/' />
+<link rel='shortlink' href='http://www.smitegame.com/?p=21486' />
+<link rel='https://github.com/WP-API/WP-API' href='http://www.smitegame.com/wp-json' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+</head>
+
+<body class="single single-god postid-21486">
+  <div class="hirez-super-nav">
+  <ul class="center-nav">
+    <li class="hirez-corp">
+      <ul class="hirez-corp-sub">
+        <li><a href="http://www.hirezstudios.com/">Hi-Rez Studios Home</a></li>
+        <li><a href="http://www.hirezstudios.com/hi-rez/top-menu/about-us">About Hi-Rez</a></li>
+        <li><a href="http://www.hirezstudios.com/hi-rez/top-menu/careers">Work at Hi-Rez</a></li>
+        <li><a href="http://www.hirezstudios.com/smite/press">Media and Press</a></li>
+        <li><a href="http://www.hirezstudios.com/hi-rez/top-menu/contact-us">Contact Us</a></li>
+      </ul>
+    </li>
+    <li class="account">
+      Account
+      <ul class="account-sub">
+        <li><a href="https://account.hirezstudios.com/support/registration_base.aspx">Create Account</a></li>
+        <li><a href="/search-player/">Player Stats</a></li>
+        <li><a href="/leagues/">Leagues</a></li>
+        <li><a href="https://account.hirezstudios.com/account/accountinfo.aspx">My Account</a></li>
+      </ul>
+    </li>
+    <li class="store">
+      <a href="https://account.hirezstudios.com/orders/stores.aspx">Store</a>
+    </li>
+    <li class="support">
+      Support
+      <ul class="support-sub">
+        <li><a href="http://hi-rez.custhelp.com/app/ask">Report An In-Game Problem<div class="sub-link">Having an issue in-game?</div></a></li>
+        <li><a href="http://hi-rez.custhelp.com/app/account/overview">Your Support Tickets<div class="sub-link">View your active tickets.</div></a></li>
+        <li><a href="http://hi-rez.custhelp.com/app/home">Knowledge Base<div class="sub-link">Browse our support answers.</div></a></li>
+        <li><a href="https://account.hirezstudios.com/account/accountinfo.aspx">Account Management<div class="sub-link">Issues with your account.</div></a></li>
+      </ul>
+    </li>
+    <li class="esports">
+      <a href="http://esports.smitegame.com">eSports</a>
+    </li>
+    <li class="play-now">
+      <a href="/download">Play Now</a>
+    </li>
+    <li class="explore-games">
+      Explore Games
+      <ul class="explore-sub">
+        <li class="smite">
+          <a href="http://smitegame.com/">
+            <div class="skin-message">
+              <div class="top panel"></div>
+              <div class="bottom panel"></div>
+            </div>
+            <div class="info"><b>Smite</b></div>
+            <div class="text-wrapper">
+              <p>3rd Person, Action MOBA.</p>
+            </div>
+            <div class="top-text-wrapper">Free To Play</div>
+          </a>
+        </li>
+        <li class="tribes">
+          <a href="http://tribesascend.com/">
+            <div class="skin-message">
+              <div class="top panel"></div>
+              <div class="bottom panel"></div>
+            </div>
+            <div class="info"><b>Tribes: Ascend</b></div>
+            <div class="text-wrapper">
+              <p>World's Fastest Shooter.</p>
+            </div>
+            <div class="top-text-wrapper">Free To Play</div>
+          </a>
+        </li>
+        <li class="global-agenda">
+          <a href="http://globalagendagame.com/">
+            <div class="skin-message">
+              <div class="top panel"></div>
+              <div class="bottom panel"></div>
+            </div>
+            <div class="info"><b>Global Agenda</b></div>
+            <div class="text-wrapper">
+              <p>Critically-acclaimed Sci-Fi MMO.</p>
+            </div>
+            <div class="top-text-wrapper">Free To Play</div>
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div class="hirez-super-nav-mobile" onclick="void(0)">
+  ☰
+  <ul class="sub-menu">
+    <li>Hi-Rez Studios
+      <ul>
+        <li><a href="http://www.hirezstudios.com/">Hi-Rez Studios Home</a></li>
+        <li><a href="http://www.hirezstudios.com/hi-rez/top-menu/about-us">About Hi-Rez</a></li>
+        <li><a href="http://www.hirezstudios.com/hi-rez/top-menu/careers">Work at Hi-Rez</a></li>
+        <li><a href="http://www.hirezstudios.com/smite/press">Media and Press</a></li>
+        <li><a href="http://www.hirezstudios.com/hi-rez/top-menu/contact-us">Contact Us</a></li>
+      </ul>
+    </li>
+    <li>Account
+      <ul>
+        <li><a href="https://account.hirezstudios.com/support/registration_base.aspx">Create Account</a></li>
+        <li><a href="/search-player/">Player Stats</a></li>
+        <li><a href="/leagues/">Leagues</a></li>
+        <li><a href="https://account.hirezstudios.com/account/accountinfo.aspx">My Account</a></li>
+      </ul>
+    </li>
+    <li><a href="https://account.hirezstudios.com/orders/stores.aspx">Store</a></li>
+    <li>Support
+      <ul>
+        <li><a href="http://hi-rez.custhelp.com/app/ask">Report An In-Game Problem</a></li>
+        <li><a href="http://hi-rez.custhelp.com/app/account/overview">Your Support Tickets</a></li>
+        <li><a href="http://hi-rez.custhelp.com/app/home">Knowledge Base</a></li>
+        <li><a href="https://account.hirezstudios.com/account/accountinfo.aspx">Account Management</a></li>
+      </ul>
+    </li>
+    <li><a href="http://esports.smitegame.com/">eSports</a></li>
+    <li>Explore Games
+      <ul>
+        <li><a href="http://smitegame.com/">Smite</a></li>
+        <li><a href="http://tribesascend.com/">Tribes: Ascend</a></li>
+        <li><a href="http://globalagendagame.com/">Global Agenda</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+<div class="row main-nav follow no-inverse sticky">
+  <div class="center-nav">
+    <div class="nav-frame"></div>
+
+  <div class="secondary-btn">
+    <a href="/game-info">
+      <div class="nav-title">Game Info</div>
+      <svg class="left-btn">
+        <circle cx="227" cy="49" r="7" />
+        <circle cx="227" cy="49" r="11" />
+        <circle cx="227" cy="49" r="15" />
+        <path d="M215 40, 179 20, 183 15, 252 15" />
+        <path d="M214 43, 176 21, 31 21" />
+        <path d="M26 17, 175 17, 180 12, 252 12" />
+        <path d="M212 49, 45 36" />
+        <path d="M212 52, 49 39" />
+        <path d="M213 54, 64 54" />
+        <path d="M215 58, 68 58" />
+      </svg>
+    </a>
+    <div class="expand-nav">
+      <a class="god-btn" href="/gods">
+        <div class="nav-title">Gods</div>
+        <div class="left-btn"></div>
+      </a>
+      <a class="item-btn" href="/items">
+        <div class="nav-title">Items</div>
+        <div class="left-btn"></div>
+      </a>
+    </div>
+  </div>
+
+  <div class="mid-backdrop"></div>
+
+  <a class="primary-btn" href="/">
+      <div class="smite-logo-return"></div>
+      <div class="download-package">
+        <div class="nav-title">Download</div>
+        <div class="nav-sub-title">Play Free</div>
+        <svg class="mid-btn">
+          <path d="M136 49, 54 49, 48 43, 41 43, 20 18, 21 18, 41 18, 43 13, 136 13" />
+          <path d="M136 49, 218 49, 223 43, 230 43, 251 18, 250 18, 230 18, 228 13, 136 13" />
+          <path d="M136 53, 42 53, 14 20, 23 8, 136 8" />
+          <path d="M136 53, 229 53, 258 20, 249 8, 136 8" />
+        </svg>
+      </div>
+    </a>
+
+  <a class="tertiary-btn" href="/community">
+    <div class="nav-title">Community</div>
+      <svg class="right-btn">
+        <circle cx="25" cy="49" r="7" />
+        <circle cx="25" cy="49" r="11" />
+        <circle cx="25" cy="49" r="15" />
+        <path d="M38 40, 73 20, 69 15, 0 15" />
+        <path d="M39 43, 77 21, 221 21" />
+        <path d="M226 17, 76 17, 72 12, 0 12" />
+        <path d="M41 49, 207 36" />
+        <path d="M41 52, 204 39" />
+        <path d="M40 54, 189 54" />
+        <path d="M38 57, 186 58" />
+      </svg>
+    </a>
+  </div>
+</div>
+<link rel="stylesheet" type="text/css" href="/wp-content/themes/smite-v2/css/swiper.min.css">
+
+<div class="page-god-info">
+  <div class="row no-margin">
+    <div class="page-section hero">
+      <div class="titan center-wrapper background" style="background-image: url('http://www.smitegame.com/wp-content/themes/smite-v2/images/god-info-header-bg.png');">
+        <div class="hero-video-container" style="background-image:url('http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/07/zhongqui_webm_fallbacks.jpg')">
+          <video class="videos" autoplay loop preload>
+            <source src="" type="video/webm">
+            <source src="" type="video/mp4">
+          </video>
+        </div>
+        <div class="god-info font-family penumbra-serif white">
+          <div class="name">Zhong Kui</div>
+          <div class="title">the Demon Queller</div>
+        </div>
+        <div class="hex-container">
+          <div class="resource-link hexagon-left sprite pantheon-18838"></div>
+          <div class="resource-link hexagon-left sprite role-18858"></div>
+                      <div class="resource-link hexagon-left sprite no-show"></div>
+                                <div class="resource-link hexagon-left sprite" data-ytlightbox="KhEzfKm89Nw"></div>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="row no-margin">
+    <div class="page-section abilities">
+      <div class="titan center-wrapper background" style="background-image: url('http://www.smitegame.com/wp-content/themes/smite-v2/images/godinfo_abilities_wall.jpg');">
+        <div class="sub-section glass vertical ability-global-container">
+        <h1 class="white">Abilities</h1>
+                                                                                                              <div class="single-ability">
+                  <div class="icon-container"><img class="icon" src="http://www.hirezstudios.com/images/default-source/smite-god-abilities/1926_9098.jpg"></div>
+                  <div class="primary-info">
+                    <div class="ability-name font-family penumbra-serif white">Demon Bag<span style="opacity:0.5;"> (Passive)</span></div>
+                    <div class="ability-description font-family penumbra-open-sans weight-400 white">The demons that Zhong Kui captures from Exorcism are stored in his demon bag, giving him additional protections for each demon captured.  When Recall Demons is activated, Zhong Kui gains double the protections from his Demon Bag, but eventually losing all stacks when the bag is empty.</div>
+                    <div class="meta-container">
+                                              <div class="ability-meta meta-1 font-family penumbra-serif white"><i>Ability:</i> Buff</div>
+                                                                                                                                              <div class="ability-meta meta-4 font-family penumbra-serif white"><i>Protections:</i> 2 per captured demon</div> 
+                                        </div>
+                  </div>
+                <div class="secondary-info">
+                  <div data-ytlightbox="JfrYfwHYjoQ" class="ability-video" style="background-image: url('http://img.youtube.com/vi/JfrYfwHYjoQ/0.jpg');"></div>
+                </div>
+            </div>
+                
+                                                    <div class="single-ability">
+                  <div class="icon-container"><img class="icon" src="http://www.hirezstudios.com/images/default-source/smite-god-abilities/1926_9092.jpg"></div>
+                  <div class="primary-info">
+                    <div class="ability-name font-family penumbra-serif white">Expose Evil</div>
+                    <div class="ability-description font-family penumbra-open-sans weight-400 white">Zhong Kui pastes a card on all enemies in front of him, marking them as a demon, slowing and damaging them each second while they are marked.  If the card is removed, 40% of the remaining damage is done instantly.</div>
+                    <div class="meta-container">
+                                              <div class="ability-meta meta-1 font-family penumbra-serif white"><i>Ability:</i> Line</div>
+                                                              <div class="ability-meta meta-2 font-family penumbra-serif white"><i>Cost:</i> 60/65/70/75/80</div>
+                                                              <div class="ability-meta meta-3 font-family penumbra-serif white"><i>Cooldown:</i> 10s</div> 
+                                                              <div class="ability-meta meta-4 font-family penumbra-serif white"><i>Damage per Tick:</i> 20/30/40/50/60 (+15% of your magical power)</div> 
+                                          <div class="ability-meta meta-5 font-family penumbra-serif white"><i>Slow:</i> 20%</div> 
+                                          <div class="ability-meta meta-6 font-family penumbra-serif white"><i>Card Lifetime:</i> 5s</div> 
+                                        </div>
+                  </div>
+                <div class="secondary-info">
+                  <div data-ytlightbox="Mdugzs6stdc" class="ability-video" style="background-image: url('http://img.youtube.com/vi/Mdugzs6stdc/0.jpg');"></div>
+                </div>
+            </div>
+                
+                                                    <div class="single-ability">
+                  <div class="icon-container"><img class="icon" src="http://www.hirezstudios.com/images/default-source/smite-god-abilities/1926_9212.jpg"></div>
+                  <div class="primary-info">
+                    <div class="ability-name font-family penumbra-serif white">Exorcism</div>
+                    <div class="ability-description font-family penumbra-open-sans weight-400 white">Zhong Kui drives out the demons of his enemies, dealing damage as they leave the body.  Demons marked by Expose Evil are captured by Zhong Kui, healing him per demon captured (up to 3), and have the card removed.</div>
+                    <div class="meta-container">
+                                              <div class="ability-meta meta-1 font-family penumbra-serif white"><i>Ability:</i> Cone</div>
+                                                              <div class="ability-meta meta-2 font-family penumbra-serif white"><i>Cost:</i> 60/65/70/75/80</div>
+                                                              <div class="ability-meta meta-3 font-family penumbra-serif white"><i>Cooldown:</i> 10s</div> 
+                                                              <div class="ability-meta meta-4 font-family penumbra-serif white"><i>Damage:</i> 75/125/175/225/275 (+50% of your magical power)</div> 
+                                          <div class="ability-meta meta-5 font-family penumbra-serif white"><i>Heal:</i> 20/35/50/65/80 (+20% of your magical power)</div> 
+                                        </div>
+                  </div>
+                <div class="secondary-info">
+                  <div data-ytlightbox="wi2KtSqdAXQ" class="ability-video" style="background-image: url('http://img.youtube.com/vi/wi2KtSqdAXQ/0.jpg');"></div>
+                </div>
+            </div>
+                
+                                                    <div class="single-ability">
+                  <div class="icon-container"><img class="icon" src="http://www.hirezstudios.com/images/default-source/smite-god-abilities/1926_9248.jpg"></div>
+                  <div class="primary-info">
+                    <div class="ability-name font-family penumbra-serif white">Book of Demons</div>
+                    <div class="ability-description font-family penumbra-open-sans weight-400 white">When fired, the Book of Demons deals damage and stuns enemies, stunning marked enemies for 2x the duration and removing the card. When this ability is not on cooldown, the Book of Demons flies nearby Zhong Kui, firing for 50% of Zhong Kui's basic damage.</div>
+                    <div class="meta-container">
+                                              <div class="ability-meta meta-1 font-family penumbra-serif white"><i>Ability:</i> Area</div>
+                                              <div class="ability-meta meta-1 font-family penumbra-serif white"><i>Radius:</i> 20</div>
+                                                              <div class="ability-meta meta-2 font-family penumbra-serif white"><i>Cost:</i> 75/80/85/90/95</div>
+                                                              <div class="ability-meta meta-3 font-family penumbra-serif white"><i>Cooldown:</i> 15s</div> 
+                                                              <div class="ability-meta meta-4 font-family penumbra-serif white"><i>Damage:</i> 60/115/170/225/280 (+50% of your magical power)</div> 
+                                          <div class="ability-meta meta-5 font-family penumbra-serif white"><i>Stun:</i> .5/.6/.7/.8/.9s (2x for marked targets)</div> 
+                                        </div>
+                  </div>
+                <div class="secondary-info">
+                  <div data-ytlightbox="I6L26IU6jMw" class="ability-video" style="background-image: url('http://img.youtube.com/vi/I6L26IU6jMw/0.jpg');"></div>
+                </div>
+            </div>
+                
+                                                    <div class="single-ability">
+                  <div class="icon-container"><img class="icon" src="http://www.hirezstudios.com/images/default-source/smite-god-abilities/1926_9096.jpg"></div>
+                  <div class="primary-info">
+                    <div class="ability-name font-family penumbra-serif white">Recall Demons</div>
+                    <div class="ability-description font-family penumbra-open-sans weight-400 white">Upon activation, demons pulse out from his bag at nearby players every second for 5s. They chase and accelerate over time, doing damage to enemies as they enter the body. Zhong Kui is immune to Knockback and Slows for the duration.</div>
+                    <div class="meta-container">
+                                              <div class="ability-meta meta-1 font-family penumbra-serif white"><i>Ability:</i> Area</div>
+                                              <div class="ability-meta meta-1 font-family penumbra-serif white"><i>Radius:</i> 40</div>
+                                                              <div class="ability-meta meta-2 font-family penumbra-serif white"><i>Cost:</i> 100</div>
+                                                              <div class="ability-meta meta-3 font-family penumbra-serif white"><i>Cooldown:</i> 90s</div> 
+                                                              <div class="ability-meta meta-4 font-family penumbra-serif white"><i>Damage:</i> 80/95/110/125/140 (+20% of your magical power)</div> 
+                                        </div>
+                  </div>
+                <div class="secondary-info">
+                  <div data-ytlightbox="gtgNx22Fw_o" class="ability-video" style="background-image: url('http://img.youtube.com/vi/gtgNx22Fw_o/0.jpg');"></div>
+                </div>
+            </div>
+                
+                            </div>
+        </div>
+    </div>
+  </div>
+  <div class="row no-margin">
+    <div class="page-section skins">
+      <div class="titan center-wrapper background" style="background-image: url('http://www.smitegame.com/wp-content/themes/smite-v2/images/god-info-skins-bg.png');">
+        <h1 class="white">Skins</h1>
+        <div class="swiper-container">
+          <div class="swiper-wrapper">
+                        <div class="swiper-slide" style="background-image:url(http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/06/standardzhongkui_card.jpg)"><div class="skin-title font-family penumbra-serif white">Standard Zhong Kui</div></div>
+                      <div class="swiper-slide" style="background-image:url(http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/06/demoncatcher_card.jpg)"><div class="skin-title font-family penumbra-serif white">Demon Catcher</div></div>
+                      <div class="swiper-slide" style="background-image:url(http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/06/kingofghosts_card.jpg)"><div class="skin-title font-family penumbra-serif white">King of Ghosts</div></div>
+                      <div class="swiper-slide" style="background-image:url(http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/06/gizhong_card.jpg)"><div class="skin-title font-family penumbra-serif white">G.I.Zhong</div></div>
+                    </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row no-margin">
+    <div class="page-section items no-border">
+      <div class="titan center-wrapper background" style="background-image: url('http://www.smitegame.com/wp-content/themes/smite-v2/images/god-info-skins-bg.png');">
+        <h1 class="white">Items</h1>
+        <div class="weapon-fan-out"></div>
+        <div class="glass vertical item-container">
+           <h3 class="gold-heading-svg">Core</h3>                <div class="item-package">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2867.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Warlock's Sash</div><div class='cost'>2650</div><div class='property Magical Power'><div class='property-desc'>Magical Power</div><div class='property-value'>+50</div></div><div class='property Health'><div class='property-desc'>Health</div><div class='property-value'>+300</div></div><div class='property Mana'><div class='property-desc'>Mana</div><div class='property-value'>+400</div></div><div class='secondary-desc'>PASSIVE - You permanently gain +3 Health and +.6 Magical Power per Stack, and receive 5 Stacks for a god kill and 1 Stack per minion kill.  (Max. 100 Stacks).</div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2873.jpg'> <div class='starting-item-name'>Starts from Uncommon Sash</div></div>    </div>
+</div>
+                </a>
+                              <div class="item-package">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2834.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Obsidian Shard</div><div class='cost'>2050</div><div class='property Magical Power'><div class='property-desc'>Magical Power</div><div class='property-value'>+70</div></div><div class='secondary-desc'>PASSIVE - You gain +33% Magical Penetration.</div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2838.jpg'> <div class='starting-item-name'>Starts from Magic Focus</div></div>    </div>
+</div>
+                </a>
+                              <div class="item-package">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2685.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Shoes of the Magi</div><div class='cost'>1600</div><div class='property Magical Power'><div class='property-desc'>Magical Power</div><div class='property-value'>+40</div></div><div class='property Mana'><div class='property-desc'>Mana</div><div class='property-value'>+250</div></div><div class='property Magical Penetration'><div class='property-desc'>Magical Penetration</div><div class='property-value'>+10</div></div><div class='property Movement Speed'><div class='property-desc'>Movement Speed</div><div class='property-value'>+18%</div></div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2682.jpg'> <div class='starting-item-name'>Starts from Shoes</div></div>    </div>
+</div>
+                </a>
+                         <h3 class="gold-heading-svg">Damage</h3>                <div class="item-package">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2840.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Chronos' Pendant</div><div class='cost'>2400</div><div class='property Magical Power'><div class='property-desc'>Magical Power</div><div class='property-value'>+75</div></div><div class='property MP5'><div class='property-desc'>MP5</div><div class='property-value'>+25</div></div><div class='property Cooldown Reduction'><div class='property-desc'>Cooldown Reduction</div><div class='property-value'>+25%</div></div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2844.jpg'> <div class='starting-item-name'>Starts from Lost Artifact</div></div>    </div>
+</div>
+                              <div class="item-package">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2841.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Rod of Tahuti</div><div class='cost'>3320</div><div class='property Magical Power'><div class='property-desc'>Magical Power</div><div class='property-value'>+125</div></div><div class='property MP5'><div class='property-desc'>MP5</div><div class='property-value'>+15</div></div><div class='secondary-desc'>PASSIVE - Increases Magical Power by 25%.</div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2844.jpg'> <div class='starting-item-name'>Starts from Lost Artifact</div></div>    </div>
+</div>
+                              <div class="item-package">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2826.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Bancroft's Talon</div><div class='cost'>2400</div><div class='property Magical Power'><div class='property-desc'>Magical Power</div><div class='property-value'>+100</div></div><div class='property Magical Lifesteal'><div class='property-desc'>Magical Lifesteal</div><div class='property-value'>+12%</div></div><div class='secondary-desc'>PASSIVE - You gain 1 additional Magical Power per 1% of your missing Health.</div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2829.jpg'> <div class='starting-item-name'>Starts from Tiny Trinket</div></div>    </div>
+</div>
+                       <h3 class="gold-heading-svg">Defensive</h3>                <div class="item-package-bottom">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2555.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Spirit Robe</div><div class='cost'>2460</div><div class='property Physical Protection'><div class='property-desc'>Physical Protection</div><div class='property-value'>+40</div></div><div class='property Magical Protection'><div class='property-desc'>Magical Protection</div><div class='property-value'>+40</div></div><div class='property Cooldown Reduction'><div class='property-desc'>Cooldown Reduction</div><div class='property-value'>+15%</div></div><div class='secondary-desc'>PASSIVE - You gain an additional 15% Damage Mitigation for 3s whenever you are hit with a hard Crowd Control Effect.  This can only occur once every 10 seconds.</div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2881.jpg'> <div class='starting-item-name'>Starts from Cloak</div></div>    </div>
+</div>
+                              <div class="item-package-bottom">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2877.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Magi's Blessing</div><div class='cost'>2350</div><div class='property Physical Protection'><div class='property-desc'>Physical Protection</div><div class='property-value'>+15</div></div><div class='property Magical Protection'><div class='property-desc'>Magical Protection</div><div class='property-value'>+15</div></div><div class='property Health'><div class='property-desc'>Health</div><div class='property-value'>+350</div></div><div class='secondary-desc'>PASSIVE - Absorbs a single hard Crowd Control effect or Root once every 90 seconds. When this occurs, the owner also receives 1s of Crowd Control immunity.</div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2881.jpg'> <div class='starting-item-name'>Starts from Cloak</div></div>    </div>
+</div>
+                              <div class="item-package-bottom">
+                 <div class="icon-container" href="#"><img src="http://hzweb.hi-rezgame.net/smite-web/wp-content/uploads/2015/05/2874.jpg" class="icon"/></div>
+                <div class="tooltip">
+    <div class="sprite viewfinder-guide"></div>
+    <div class='title font-family penumbra-sans semibold Item'>Breastplate of Valor</div><div class='cost'>1950</div><div class='property Mana'><div class='property-desc'>Mana</div><div class='property-value'>+300</div></div><div class='property Physical Protection'><div class='property-desc'>Physical Protection</div><div class='property-value'>+75</div></div><div class='property Cooldown Reduction'><div class='property-desc'>Cooldown Reduction</div><div class='property-value'>+25%</div></div><div class='starting-item'><img src='http://hirezstudios.blob.core.windows.net/sitefinity/smite-items/2876.jpg'> <div class='starting-item-name'>Starts from Breastplate</div></div>    </div>
+</div>
+                        
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <footer class="footer" role="contentinfo">
+  <div class="center-wrapper">
+    <div class="row footer-top">
+        <div class="columns small-12 medium-6">
+          <div class="play-container">
+            <a class="brand" href="http://www.smitegame.com"></a>
+            <a class="play-now" href="http://www.smitegame.com/download">Play Free Now</a>
+          </div>
+        </div>
+        <div class="columns small-12 medium-6">
+          <ul class="social-stack">
+            <li><a target="_blank" class="social-twitch" href="http://twitch.tv/smitegame"></a></li>
+            <li><a target="_blank" class="social-facebook" href="http://facebook.com/smitegame"></a></li>
+            <li><a target="_blank" class="social-youtube" href="http://youtube.com/user/smitegame"></a></li>
+            <li><a target="_blank" class="social-twitter" href="http://twitter.com/smitegame"></a></li>
+            <li><a target="_blank" class="social-instagram" href="http://instagram.com/smitegame"></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  <div class="center-wrapper">
+    <div class="row footer-mid">
+        <div class="columns small-12 medium-9 footer-sub-nav">
+          <div class="footer-nav"><ul id="menu-footer-sub-nav" class="menu"><li id="menu-item-21377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21377"><a>Game Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-21390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21390"><a href="/gods">Gods</a></li>
+	<li id="menu-item-22068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22068"><a href="http://www.smitegame.com/items/">Items</a></li>
+	<li id="menu-item-21398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21398"><a href="/game-modes">Game Modes</a></li>
+	<li id="menu-item-21399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21399"><a href="/game-info">Getting Started</a></li>
+	<li id="menu-item-21400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21400"><a href="/download">Download Game</a></li>
+	<li id="menu-item-21401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21401"><a href="/category/patch-notes">Patch Notes</a></li>
+</ul>
+</li>
+<li id="menu-item-21379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21379"><a>Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-21389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21389"><a href="/community">Free Skins</a></li>
+	<li id="menu-item-21402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21402"><a href="http://forums.smitegame.com/">Forums</a></li>
+	<li id="menu-item-21403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21403"><a href="http://www.hirezstudios.com/smite/promo/refer-a-friend">Refer A Friend</a></li>
+	<li id="menu-item-21704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21704"><a href="https://account.hirezstudios.com/rewards/smite.aspx">Free PC Gems</a></li>
+</ul>
+</li>
+<li id="menu-item-21380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21380"><a href="#">eSports</a>
+<ul class="sub-menu">
+	<li id="menu-item-21388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21388"><a href="http://esports.smitegame.com/">General</a></li>
+	<li id="menu-item-21404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21404"><a href="http://esports.smitegame.com/summer-split-landing-page/">Pro League</a></li>
+	<li id="menu-item-21405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21405"><a href="http://esports.smitegame.com/challenger-cup/">Challengers Cup</a></li>
+	<li id="menu-item-21406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21406"><a href="http://esports.smitegame.com/season-ticket/">Season Ticket</a></li>
+</ul>
+</li>
+<li id="menu-item-21381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21381"><a>Store</a>
+<ul class="sub-menu">
+	<li id="menu-item-21387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21387"><a href="https://account.hirezstudios.com/orders/smite-store.aspx">Gems</a></li>
+	<li id="menu-item-21407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21407"><a href="http://www.hirezstudios.com/smite/nav/buy/ultimate-god-pack">God Pack</a></li>
+</ul>
+</li>
+<li id="menu-item-21382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21382"><a>Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-21386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21386"><a href="http://hi-rez.custhelp.com/">Home</a></li>
+	<li id="menu-item-21408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21408"><a href="http://portal.smitegame.com/">Feedback</a></li>
+</ul>
+</li>
+<li id="menu-item-21383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21383"><a>Hi-Rez Studios</a>
+<ul class="sub-menu">
+	<li id="menu-item-21385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21385"><a href="http://www.hirezstudios.com/">Explore Games</a></li>
+	<li id="menu-item-21409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21409"><a href="http://www.hirezstudios.com/hi-rez/top-menu/careers">Careers</a></li>
+	<li id="menu-item-21410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21410"><a href="http://www.hirezstudios.com/hi-rez/top-menu/contact-us">Contact Us</a></li>
+	<li id="menu-item-21411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21411"><a href="http://press.smitegame.com/">Press</a></li>
+	<li id="menu-item-21412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21412"><a href="http://www.hirezstudios.com/hi-rez/top-menu/about-us">About Us</a></li>
+</ul>
+</li>
+</ul></div>        </div>
+        <div class="columns small-12 medium-3">
+          <a class="hirez-brand" href="http://hirezstudios.com/"></a>
+          <a class="esrb-rating" href="http://www.esrb.org/ratings/ratings_guide.jsp"></a>
+          <ul class="esrb-desc">
+            <li>Alcohol Reference</li>
+            <li>Blood</li>
+            <li>Fantasy Violence</li>
+            <li>Mild Suggestive Themes</li>
+            <li>Online Interactions Not</li>
+            <li>Rated by ESRB</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="center-wrapper">
+      <div class="row footer-bottom">
+        <div class="columns small-6">
+          <div class="copyright">© 2015 Copyright Hi-Rez Studios, Inc. All rights reserved.</div>
+        </div>
+        <div class="columns small-6">
+          <ul class="footer-req-nav">
+            <li><a href="http://www.hirezstudios.com/docs/default-source/default-document-library/smite-end-user-license-agreement.txt">EULA</a></li>
+            <li><a href="http://www.hirezstudios.com/hi-rez/legal">Legal</a></li>
+            <li><a href="http://www.hirezstudios.com/docs/default-source/default-document-library/privacy-policy.txt">Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+<div class="main-nav-mobile">
+  <a class="mobile-game-info" href="/game-info">Game Info</a>
+  <a class="mobile-home" href="/"></a>
+  <a class="mobile-community" href="/community">Community</a>
+</div>
+
+<script type='text/javascript' src='http://www.smitegame.com/wp-content/themes/smite-v2/js/vendor.min.js'></script>
+<script type='text/javascript' src='http://www.smitegame.com/wp-content/themes/smite-v2/js/script.min.js'></script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PMLSVJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PMLSVJ');</script>
+<!-- End Google Tag Manager -->
+
+</body>
+
+</html>
