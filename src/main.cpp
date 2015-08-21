@@ -54,26 +54,29 @@ int main (int argc, char  *argv[])
 			cout<<"Attempting to load the page for "<<god_name<<endl;	
 			if (load_vector(curl, url, god_page_lines)) {
 				cout<<"\tloaded the god page for "<<god_name<<endl;;
-				show_vector(god_page_lines);
+				//show_vector(god_page_lines);
 				string image_url;
 				if(find_image_url(god_page_lines, image_url)){
 					cout<<"\timage url is "<<image_url<<endl;
-					image_urls.push_back(image_url);
+					//image_urls.push_back(image_url);
+					string filename = "./images/"+god_name+".jpg";
+					if(save_image(curl, image_url, filename))
+						cout<<"\tSaved image for "<<god_name<<endl;
 				}
 			}
 		}
 	}
 	
 	// curl the images and save them to the images folder
-	for(int i = 0; i < image_urls.size(); ++i) {
-		string url = image_urls[i];
-		string god_name = "";
-		if (find_god_name(url, god_name)){
-			string filename = "../images/"+god_name;
-			if(save_image(curl, url, filename))
-				cout<<"Saved image for "<<god_name<<endl;
-		}
-	}
+	// for(int i = 0; i < image_urls.size(); ++i) {
+	// 	string url = image_urls[i];
+	// 	string god_name = "";
+	// 	if (find_god_name(url, god_name)){
+	// 		string filename = "../images/"+god_name;
+	// 		if(save_image(curl, url, filename))
+	// 			cout<<"Saved image for "<<god_name<<endl;
+	// 	}
+	// }
 	
 	cleanup(curl);
 	return 0;

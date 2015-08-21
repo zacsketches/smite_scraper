@@ -40,7 +40,6 @@ inline bool save_image(CURL* curl, const string url, const string filename){
 	fp = fopen(filename.c_str(), "wb");
 	if(!fp) {
 		cout<<"Unable to open the image file: "<<filename<<endl;
-		cleanup(curl);
 		return false;
 	}
 	
@@ -53,7 +52,6 @@ inline bool save_image(CURL* curl, const string url, const string filename){
 	if(res != CURLE_OK){
 		fprintf(stderr, "curl_easy_perform() failed: %s\n"
 			, curl_easy_strerror(res) );
-		cleanup(curl);
 		fclose(fp);
 	}
 	
@@ -75,7 +73,6 @@ inline bool load_vector(CURL* curl, const string url, vector<string>& vec ){
 	fp = fopen(temp_file.c_str(), "wb");
 	if(!fp) {
 		cout<<"Unable to open the temp file\n";
-		cleanup(curl);
 		return false;
 	}
 	
@@ -88,8 +85,8 @@ inline bool load_vector(CURL* curl, const string url, vector<string>& vec ){
 	if(res != CURLE_OK){
 		fprintf(stderr, "curl_easy_perform() failed: %s\n"
 			, curl_easy_strerror(res) );
-		cleanup(curl);
 		fclose(fp);
+		return false;
 	}
 	
 	//read the file back into the vector
@@ -100,9 +97,10 @@ inline bool load_vector(CURL* curl, const string url, vector<string>& vec ){
 		vec.push_back(line);
 	}
 	
-	//clearn up & check to make sure we reached eof 
+	//clean up
 	fclose(fp);
-	//ifs is closed as this functionleaves scope
+	//ifs gest closed as this functionleaves scope
+	
 	return (ifs.eof() && vec.size()>0) ? true : false;
 }
 
@@ -175,16 +173,23 @@ inline bool find_image_url(const vector<string>& page_lines, string& image_url){
 	* iterate over the page lines to find the image_url
 	*/
 	string pattern = "http://hzweb.*_header_fallback.jpg";
-	regex pat(pattern);
+	regex video_pat(pattern);
+	pattern = "http://hzweb.*_webm_fallbacks.jpg";
+	regex normal_pat(pattern);
+	pattern = "http://hzweb.*uploads/2015/.*/godpage_header.jpg";
+	regex unusual_pat(pattern);
+	
 	smatch matches;
 	
 	bool result = false;
 	for(int i = 0; i < page_lines.size(); ++i) {
 		string line = page_lines[i];
-		if(regex_search(line, matches, pat)) {
-			image_url = matches[0];
-			result = true;
-			break;
+		if(regex_search(line, matches, video_pat) 
+			|| regex_search(line, matches, normal_pat)
+			|| regex_search(line, matches, unusual_pat)) {
+				image_url = matches[0];
+				result = true;
+				break;
 		}		
 	}
 	
