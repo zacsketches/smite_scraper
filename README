@@ -1,0 +1,12 @@
+I'm building this web scraper for hayden to get the clean URLs for the 
+image files related to the pantheon of gods in his favorite game.
+
+From list of URLs he can build his own web page and use the smite.com
+images to add some flare to his fan site.
+
+1. curl the main smite website
+2. filter it for the lines with the word 'pantheon'
+3. regex filter the pantheon for the individual god urls
+4. curl each god's url
+5. filter each of these god pages to find the image url
+6. write an output file with the image urls one to a line
