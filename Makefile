@@ -14,12 +14,11 @@ all: smite_scraper
 smite_scraper: main.o
 	$(CC) -o $@ $< $(CFLAGS) $(CURL_LIB)
 
-main.o: 
+main.o: $(IDIR)/smite.h
 	$(CC) -c $(SOURCE_DIR)/main.cpp $(CFLAGS) 
 
 clean:
 	rm *.o
-	rm tmp.txt
 
 #************************************************************************
 #*                         TESTS
